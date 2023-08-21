@@ -1,3 +1,0 @@
-/Users/patrick/Documents/uvic/csc 305/CG-Summer-2023-main/Assignment_4/build/CMakeFiles/assignment4.dir
-/Users/patrick/Documents/uvic/csc 305/CG-Summer-2023-main/Assignment_4/build/CMakeFiles/edit_cache.dir
-/Users/patrick/Documents/uvic/csc 305/CG-Summer-2023-main/Assignment_4/build/CMakeFiles/rebuild_cache.dir
