@@ -1,0 +1,3 @@
+/Users/patrick/Documents/uvic/CG-Summer-2023-main/Assignment_2/build/CMakeFiles/assignment2.dir
+/Users/patrick/Documents/uvic/CG-Summer-2023-main/Assignment_2/build/CMakeFiles/edit_cache.dir
+/Users/patrick/Documents/uvic/CG-Summer-2023-main/Assignment_2/build/CMakeFiles/rebuild_cache.dir
